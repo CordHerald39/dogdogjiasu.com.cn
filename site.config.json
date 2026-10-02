@@ -1,0 +1,62 @@
+{
+  "folder": "26【dogdogjiasu.com.cn】",
+  "name": "狗狗加速",
+  "key": "guide",
+  "port": 4308,
+  "color": "#805028",
+  "tag": "DOGDOGJIASU",
+  "hero": [
+    "狗狗加速",
+    "跟着步骤，完成第一次连接。"
+  ],
+  "intro": "¥1/月起，10 GB 轻量入门，100 GB 与 250 GB 满足更多日常需求。先看清流量与计费规则，再按设备下载客户端、导入订阅并验证连接。",
+  "prices": [
+    1,
+    5,
+    10
+  ],
+  "traffic": [
+    10,
+    100,
+    250
+  ],
+  "labels": [
+    "轻量",
+    "日常",
+    "畅享"
+  ],
+  "domain": "dogdogjiasu.com.cn",
+  "authorized": false,
+  "previewPort": 4308,
+  "title": "狗狗加速中文指南 | 下载、配置教程与常见问题",
+  "description": "狗狗加速中文资料站：新手连接排查，提供客户端下载来源、订阅配置步骤、设备检查和故障排查资料。",
+  "speeds": [
+    30,
+    100,
+    200
+  ],
+  "regions": [
+    {
+      "name": "香港",
+      "count": 4,
+      "role": "近距离日常访问"
+    },
+    {
+      "name": "日本",
+      "count": 4,
+      "role": "东亚内容与流媒体目标"
+    },
+    {
+      "name": "新加坡",
+      "count": 2,
+      "role": "东南亚备用区域"
+    },
+    {
+      "name": "美国",
+      "count": 2,
+      "role": "跨洋访问与流媒体目标"
+    }
+  ],
+  "origin": "https://dogdogjiasu.com.cn",
+  "focus": "新手连接排查"
+}
